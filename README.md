@@ -45,7 +45,7 @@ Within the field of Computer Science, optimization algorithms and particularly t
 - Link to another document to be constructed through reference by the community, alphabetical, by author.
 
 ## References
-<a id="1">[1]</a> Demaine, E.D., Demaine, M.L., 2002. Recent results in computational origami. In: Hull, T. (Ed.), Origami^{3}. CRC Press, pp. 3–16.
-<a id="2">[2]</a>  Lang, R.J. Ed., 2009. Origami 4. CRC Press.
+ <a id="1">[1]</a> Demaine, E.D., Demaine, M.L., 2002. Recent results in computational origami. In: Hull, T. (Ed.), Origami^{3}. CRC Press, pp. 3–16.
+ <a id="2">[2]</a>  Lang, R.J. Ed., 2009. Origami 4. CRC Press.
 
 

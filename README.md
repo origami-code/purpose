@@ -8,7 +8,7 @@ The group acknowledges courtesy, aims to support and acknowledge academic refere
 
 ## background
 
-Within the field of Computer Science, optimization algorithms and particularly the field of *Computational Origami* (Demaine and Demaine, 2002; Lang, 2009) has taken up much of the load of enabling design, modelling and simulation to assist researchers in finding new solutions. The practical art of origami is active in contributing through its artists’ creative exploits that result in significant knowledge production related to new origami patterns. Within the artistic field of origami, the technical origamists are extending the domain of their toolkits through the development of computational origami tools. Many artist-developed software tools such as those developed by Lang, Tachi, Resch, Mitani, Demaine, Kraft have developed a broad range of tool, ranging from single domain problem solution tools, to generic solvers. A key problem in the domain is interoperability, and so many solutions fields remain separated. We hope to facilitate cooperation and community towards, as well as to initate new projects, new possibilities for artistic, academic and design practices of all kinds. 
+Within the field of Computer Science, optimization algorithms and particularly the field of *Computational Origami* [[1]](#1)[[2]](#2) has taken up much of the load of enabling design, modelling and simulation to assist researchers in finding new solutions. The practical art of origami is active in contributing through its artists’ creative exploits that result in significant knowledge production related to new origami patterns. Within the artistic field of origami, the technical origamists are extending the domain of their toolkits through the development of computational origami tools. Many artist-developed software tools such as those developed by Lang, Tachi, Resch, Mitani, Demaine, Kraft have developed a broad range of tool, ranging from single domain problem solution tools, to generic solvers. A key problem in the domain is interoperability, and so many solutions fields remain separated. We hope to facilitate cooperation and community towards, as well as to initate new projects, new possibilities for artistic, academic and design practices of all kinds. 
 
 ## active community projects
 
@@ -43,4 +43,9 @@ Within the field of Computer Science, optimization algorithms and particularly t
 ## prior art and reference projects
 
 - Link to another document to be constructed through reference by the community, alphabetical, by author.
+
+## References
+<a id="1">[1]</a> Demaine, E.D., Demaine, M.L., 2002. Recent results in computational origami. In: Hull, T. (Ed.), Origami^{3}. CRC Press, pp. 3–16.
+<a id="2">[2]</a>  Lang, R.J. Ed., 2009. Origami 4. CRC Press.
+
 
